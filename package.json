@@ -1,0 +1,27 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "playing with typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marionschleifer/typescript-playground.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Marion Schleifer <marion.schleifer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marionschleifer/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/marionschleifer/typescript-playground#readme",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  }
+}
